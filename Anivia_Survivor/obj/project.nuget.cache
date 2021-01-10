@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJR351HE6A/mIxxaHVHgpxJAn96BSqnnP6eNkvq5X0oGx/dIGI+7Qwh9RlE6XFwwDm/fT+XAMi8O/UmJCVzKlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cddiz\\Desktop\\ror2mods\\Anivia_survivor\\Anivia_Survivor\\Anivia_Survivor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cddiz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cddiz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
